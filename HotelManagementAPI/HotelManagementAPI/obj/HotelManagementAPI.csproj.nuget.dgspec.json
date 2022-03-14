@@ -1,0 +1,300 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementAPI.csproj",
+        "projectName": "HotelManagementAPI",
+        "projectPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementAPI.csproj",
+        "packagesPath": "C:\\Users\\AnuNa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AnuNa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementService\\HotelManagementService.csproj": {
+                "projectPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementService\\HotelManagementService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementCommon\\HotelManagementCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementCommon\\HotelManagementCommon.csproj",
+        "projectName": "HotelManagementCommon",
+        "projectPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementCommon\\HotelManagementCommon.csproj",
+        "packagesPath": "C:\\Users\\AnuNa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AnuNa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementRepository\\HotelManagementRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementRepository\\HotelManagementRepository.csproj",
+        "projectName": "HotelManagementRepository",
+        "projectPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementRepository\\HotelManagementRepository.csproj",
+        "packagesPath": "C:\\Users\\AnuNa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AnuNa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementCommon\\HotelManagementCommon.csproj": {
+                "projectPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementCommon\\HotelManagementCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementService\\HotelManagementService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementService\\HotelManagementService.csproj",
+        "projectName": "HotelManagementService",
+        "projectPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementService\\HotelManagementService.csproj",
+        "packagesPath": "C:\\Users\\AnuNa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AnuNa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementCommon\\HotelManagementCommon.csproj": {
+                "projectPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementCommon\\HotelManagementCommon.csproj"
+              },
+              "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementRepository\\HotelManagementRepository.csproj": {
+                "projectPath": "C:\\Users\\AnuNa\\source\\repos\\HotelManagementAPI\\HotelManagementAPI\\HotelManagementRepository\\HotelManagementRepository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

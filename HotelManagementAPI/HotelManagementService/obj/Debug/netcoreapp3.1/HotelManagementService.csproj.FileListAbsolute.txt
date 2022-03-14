@@ -1,0 +1,14 @@
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\bin\Debug\netcoreapp3.1\HotelManagementService.deps.json
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\bin\Debug\netcoreapp3.1\HotelManagementService.dll
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\bin\Debug\netcoreapp3.1\HotelManagementService.pdb
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\bin\Debug\netcoreapp3.1\HotelManagementCommon.dll
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\bin\Debug\netcoreapp3.1\HotelManagementRepository.dll
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\bin\Debug\netcoreapp3.1\HotelManagementCommon.pdb
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\bin\Debug\netcoreapp3.1\HotelManagementRepository.pdb
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\obj\Debug\netcoreapp3.1\HotelManagementService.csproj.AssemblyReference.cache
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\obj\Debug\netcoreapp3.1\HotelManagementService.AssemblyInfoInputs.cache
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\obj\Debug\netcoreapp3.1\HotelManagementService.AssemblyInfo.cs
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\obj\Debug\netcoreapp3.1\HotelManagementService.csproj.CoreCompileInputs.cache
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\obj\Debug\netcoreapp3.1\HotelManagementService.csproj.CopyComplete
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\obj\Debug\netcoreapp3.1\HotelManagementService.dll
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementService\obj\Debug\netcoreapp3.1\HotelManagementService.pdb

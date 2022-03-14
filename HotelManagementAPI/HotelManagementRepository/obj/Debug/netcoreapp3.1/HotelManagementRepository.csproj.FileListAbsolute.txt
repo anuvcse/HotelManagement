@@ -1,0 +1,15 @@
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\bin\Debug\netcoreapp3.1\HotelManagementRepository.deps.json
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\bin\Debug\netcoreapp3.1\HotelManagementRepository.runtimeconfig.json
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\bin\Debug\netcoreapp3.1\HotelManagementRepository.runtimeconfig.dev.json
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\bin\Debug\netcoreapp3.1\HotelManagementRepository.dll
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\bin\Debug\netcoreapp3.1\HotelManagementRepository.pdb
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\bin\Debug\netcoreapp3.1\HotelManagementCommon.dll
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\bin\Debug\netcoreapp3.1\HotelManagementCommon.pdb
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\obj\Debug\netcoreapp3.1\HotelManagementRepository.csproj.AssemblyReference.cache
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\obj\Debug\netcoreapp3.1\HotelManagementRepository.AssemblyInfoInputs.cache
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\obj\Debug\netcoreapp3.1\HotelManagementRepository.AssemblyInfo.cs
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\obj\Debug\netcoreapp3.1\HotelManagementRepository.csproj.CoreCompileInputs.cache
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\obj\Debug\netcoreapp3.1\HotelManagementRepository.csproj.CopyComplete
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\obj\Debug\netcoreapp3.1\HotelManagementRepository.dll
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\obj\Debug\netcoreapp3.1\HotelManagementRepository.pdb
+C:\Users\H453381\source\repos\HotelManagementAPI\HotelManagementRepository\obj\Debug\netcoreapp3.1\HotelManagementRepository.genruntimeconfig.cache

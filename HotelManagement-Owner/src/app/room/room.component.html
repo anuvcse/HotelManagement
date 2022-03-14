@@ -1,0 +1,29 @@
+<div >
+<div *ngIf="status != null && status>0" id="successMessage" style="color:green">Room added successfully!!</div>
+<div  class="form-inline" >
+
+<div class="form-group">
+  
+    <label class="control-label">Room Type :</label>
+    <div class="form-group">
+            <select class="form-control" id="roomType" required>
+                <option value="Single">Single</option>
+                <option value="Double">Double</option>
+            </select>
+        </div>
+        </div>
+  <div class="form-group">
+    <button  class="btn btn-primary" (click)="onSubmit()">                   
+        Add
+    </button>
+  </div>      
+</div>
+</div>
+<script type="text/javascript">
+  $(function() {
+   alert("working")
+    setTimeout(function() {
+        $("#successMessage").hide('blind', {}, 500)
+    }, 5000);
+});
+</script>

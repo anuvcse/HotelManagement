@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+
+<div class="col-md-6">
+        <h4>External Login</h4>
+        <hr />
+      <div class="form-group">
+                <input type="submit" value="Login" onclick="@("window.location.href='" + @Url.Action("GoogleLogin", "Home") + "'");"  class="btn btn-primary" />
+            </div>
+    </div>
+
