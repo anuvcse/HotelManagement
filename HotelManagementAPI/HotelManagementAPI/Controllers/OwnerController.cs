@@ -36,7 +36,7 @@ namespace HotelManagementAPI.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex.Message);
-                return BadRequest();
+                return StatusCode(500,"something went wrong");
             }
         }
 
@@ -54,7 +54,7 @@ namespace HotelManagementAPI.Controllers
             }
             catch(Exception ex)
             {
-                return BadRequest();
+                return StatusCode(500,"something went wrong");
             }
         }
 
@@ -74,7 +74,7 @@ namespace HotelManagementAPI.Controllers
             catch (Exception ex)
             {
                 _logger.LogError(ex.Message);
-                return BadRequest();
+                return StatusCode(500,"something went wrong");
             }
         }
     }
