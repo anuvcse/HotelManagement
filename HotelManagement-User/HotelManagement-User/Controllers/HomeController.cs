@@ -22,6 +22,7 @@ using System.Threading.Tasks;
 
 namespace HotelManagement_User.Controllers
 {
+   [Authorize]
     public class HomeController : Controller
     {
         
